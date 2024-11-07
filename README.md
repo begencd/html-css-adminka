@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AdminHub Dashboard
 
 Welcome to the AdminHub Dashboard repository!
@@ -40,3 +41,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Special thanks to [Fajarnurwahid](https://github.com/fajarnurwahid) for creating and sharing the AdminHub Dashboard.
 
+=======
+# html-css-adminka
+>>>>>>> 1a5a916ed9b799aea657a4e92eb77fbd93833347
